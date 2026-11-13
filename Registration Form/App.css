@@ -1,0 +1,65 @@
+table 
+{ 
+background-color:black;
+font-family: time new roman;
+text-align: center; 
+}
+
+tr 
+{ 
+background-color:white;
+font-family: time new roman; 
+text-align: center; 
+}
+
+td 
+{ 
+background-color:#a2c3b2;
+font-family: time new roman;
+text-align: center; 
+}
+
+h1 
+{ 
+color:brown;  	
+font-size:50px; 
+font-family: time new roman;  	
+text-align: center; 
+} 
+
+label 
+{ 
+color:black;  	
+font-size:18px; 
+font-weight:bold; 
+} 
+
+input 
+{ 
+font-size:16px; 
+padding: 5px; 
+} 
+
+.success
+{ 
+color:green;  	
+padding:10px; 
+text-align:center; 	 
+} 
+
+.error
+{ 
+color:red;  	
+padding:10px;  	
+text-align:center; 	 
+}  
+
+body
+{ 
+background-image:url("rg.jpg"); 
+}  
+
+button
+{ 
+background-color:yellow; 
+} 
